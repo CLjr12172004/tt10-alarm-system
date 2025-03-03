@@ -9,7 +9,8 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 Explain how your project works
-El código VHDL describe un circuito lógico combinacional que implementa la función  Y = D AND (A OR B OR C), donde D actúa como un habilitador maestro y A, B, C son entradas de sensores.
+El código VHDL describe un circuito lógico combinacional que implementa la función  Y = D AND (A OR B OR C), donde D actúa como un habilitador maestro y A, B, C son entradas de sensores,
+dentro de esta carpeta se encuentra ajunta la imagen de la tabla de verdad.
 Tenemos cuatro entradas y una salida:
   Entradas: A, B, C, D 
   Salida: Y 
